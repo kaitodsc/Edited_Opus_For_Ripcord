@@ -1,0 +1,9 @@
+Just take it here : 
+
+https://mega.nz/file/WFwjyAqA#CIvA4vPTnGigCYxZs6aTiZXbOa_MIDx1xQtl0P2TKUM
+
+It's too big for me to upload it on Github so I uploaded it on MEGA.
+
+This Opus: 
+
+Take off EVERY Softclips, limiters, and vbr contraint, set your HZ to 392khz and the bitrates to opus_max_bitrates extand stereo, etc ...
